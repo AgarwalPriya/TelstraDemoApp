@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#303f9f</color>
+    <color name="colorPrimaryDark">#3f51b5</color>
+    <color name="colorPrimaryLight">#7986cb</color>
+    <color name="colorAccent">#2962ff</color>
+    <color name="theme_accent_1">#7986cb</color>
+    <color name="theme_accent_1_light">#8ad4fa</color>
+    <color name="theme_accent_2_light">#00b0ff</color>
+
+
+    <color name="oliveGreen">#7F667C26</color>
+    <color name="turquoise">#43C6DB</color>
+    <color name="lightCoral">#E77471</color>
+    <color name="indianRed">#7FF75D59</color>
+    <color name="lightGray">#6D7B8D</color>
+    <color name="steelBlue">#7F4863A0</color>
+    <color name="gray0">#7F150517</color>
+    <color name="lemonChiffon">#7FC9C299</color>
+    <color name="lightBlue">#7FAFDCEC</color>
+    <color name="seaGreen">#7F4E8975</color>
+    <color name="darkGray">#7F4E4848</color>
+    <color name="khaki">#7FC9BE62</color>
+    <color name="lightGray0">#AFC7C7</color>
+    <color name="gray_bg">#77aaaaaa</color>
+    <color name="blue_bg">#e8eaf6</color>
+    <color name="blue_text">#0d47a1</color>
+
+    <!-- general text colors -->
+    <color name="text">#212121</color>
+    <color name="secondary">#37474f</color>
+    <color name="hint">#B8B8B8</color>
+    <color name="dividers">#bdbdbd</color>
+
+    <color name="blue_50">#e3f2fd</color>
+    <color name="blue_100">#bbdefb</color>
+    <color name="blue_200">#90caf9</color>
+    <color name="blue_300">#64b5f6</color>
+    <color name="blue_400">#42a5f5</color>
+    <color name="blue_500">#2196f3</color>
+    <color name="blue_600">#1e88e5</color>
+    <color name="blue_700">#1976d2</color>
+    <color name="blue_800">#1565c0</color>
+    <color name="blue_900">#0d47a1</color>
+    <color name="blue_A100">#82b1ff</color>
+    <color name="blue_A200">#448aff</color>
+    <color name="blue_A400">#2979ff</color>
+    <color name="blue_A700">#2962ff</color>
+
+    <color name="grey_50">#fafafa</color>
+    <color name="grey_100">#f5f5f5</color>
+    <color name="grey_200">#eeeeee</color>
+    <color name="grey_300">#e0e0e0</color>
+    <color name="grey_400">#bdbdbd</color>
+    <color name="grey_500">#9e9e9e</color>
+    <color name="grey_600">#757575</color>
+    <color name="grey_700">#616161</color>
+    <color name="grey_800">#424242</color>
+    <color name="grey_900">#212121</color>
+
+</resources>

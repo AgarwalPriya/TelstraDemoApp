@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DemoApp</string>
+    <string name="action_exit">Exit</string>
+    <string name="no_network">Please check your network connection</string>
+    <string name="download_err_msg">Sorry, failed to download the latest feeds</string>
+    <string name="err_msg">Error!!!</string>
+    <string name="wait">Please wait...Fetching the latest news feed</string>
+    <string name="ok">OK</string>
+</resources>

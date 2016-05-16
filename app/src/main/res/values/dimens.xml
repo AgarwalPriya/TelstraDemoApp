@@ -1,0 +1,14 @@
+<resources>
+    <dimen name="app_bar_height">180dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+    <!-- recycler view -->
+    <dimen name="rec_view_margin">10dp</dimen>
+    <dimen name="rec_view_mtop">5dp</dimen>
+    <!-- list roe dimensions -->
+    <dimen name="layout_margin">5dp</dimen>
+    <dimen name="row_height">200dp</dimen>
+    <dimen name="desc_height">150dp</dimen>
+    <dimen name="iv_max_height">100dp</dimen>
+    <dimen name="iv_max_width">100dp</dimen>
+</resources>
